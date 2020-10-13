@@ -39,7 +39,15 @@
     transition: .5s;
     font-size: 1rem;
 }
+.read_btn a{
+    transition: .5s;
+    color: #fff;
+}
+.read_btn a:hover{
+    transition: .5s;
+    color: #008AA4;
 
+}
 .read_btn:hover {
     background-color: #fff;
     color: #008AA4;
