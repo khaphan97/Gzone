@@ -1,0 +1,40 @@
+.body__heading {
+    width: 100%;
+    font-size: 3rem;
+    padding: 10% 5%;
+    background-color: #01439A;
+    color: #fff;
+}
+
+.body__content {
+    width: 100%;
+    padding: 5%;
+    background-color: #fff;
+    color: #000;
+    font-size: 1.2rem;
+    line-height: 2rem;
+}
+
+.body__content p {
+    text-align: center;
+
+}
+
+.body__location {
+    display: flex;
+    width: 100%;
+    flex-wrap: wrap;
+    padding: 5%;
+    justify-content: center;
+}
+
+.location__address {
+    margin-left: 5%;
+    line-height: 2.5rem;
+}
+
+.location__address h3 {
+    color: #01439A;
+    font-size: 2rem;
+
+}

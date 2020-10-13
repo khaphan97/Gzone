@@ -1,0 +1,80 @@
+.header{
+    background: #fff;
+    box-shadow: 0 0 5px black;
+}
+
+
+.body{
+    padding: 2% 0;
+    background-color: #fff;
+
+}
+.body__separate{
+    width: 100%;
+    background-color: #fff;
+}
+.body__separate img{
+    width: 100%;
+}
+.body__content{
+    background-color: #fff;
+    height: auto;
+}
+.body__title{
+    padding: 3% 1.2%;
+    
+    font-size: 2.5rem;
+    color: #000;
+}
+.body__product{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+}
+.body__game{
+    width: 30%;
+    box-shadow: 0 0 5px #000;
+    margin-bottom: 5%;
+}
+.game__img{
+    width: 100%;
+}
+.game__detail{
+    padding: 5%;
+    line-height: 2.5rem;
+    color: #000;
+}
+.game__title{
+    font-weight: lighter; 
+    font-size: 1.5rem;
+}
+.game__type{
+    color: #929db6;
+    font-size: 1rem;
+}
+.game__price{
+    display: block;
+    width: 100%;
+    text-align: right;
+    font-weight: 600;
+    font-size: 1.5rem;
+}
+.body__pages{
+    text-align: center;
+   
+}
+.body__page{
+    margin: 0 2%;
+    color: #000;
+    font-weight: 700;
+    font-size: 1.5rem;
+}
+.body__page:first-child{
+    color: #008AA4;
+
+}
+.body__page:hover{
+    color: #008AA4;
+
+}
+
